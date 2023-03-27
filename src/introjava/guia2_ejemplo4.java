@@ -18,17 +18,6 @@ public class guia2_ejemplo4 {
      */
     public static void main(String[] args) {
         
- /* Scanner leer = new Scanner(System.in);
-    System.out.println("Ingrese dos valores");
-    
-    double num1 = leer.nextDouble();
-    double num2 = leer.nextDouble();
-    double resta = num1 - num2;
-    System.out.println("La resta es " + resta);
-    double div = num1 / num2;
-    System.out.println("La division de los numeros es " + div);
-    boolean logico = num1 < num2;
-        System.out.println(num1 + " es menor que " + num2 + "? " + logico);*/
         Scanner leer = new Scanner(System.in);
         String nombre;
         int num;
